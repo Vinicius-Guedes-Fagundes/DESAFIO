@@ -4,10 +4,10 @@ function Home() {
   return (
     <section className="home">
 
-      <h1>Bem-vindo à Game Store 🎮</h1>
+      <h1>Bem-vindo à Lojão dos Games 🎮</h1>
 
       <p>
-        Encontre os melhores jogos para se divertir.
+        Encontre os melhores jogos pelos melhores preços e divirta-se!
       </p>
 
       <Link to="/produtos">

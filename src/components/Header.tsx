@@ -3,7 +3,7 @@ import Menu from "./Menu";
 function Header() {
   return (
     <header>
-      <h1>Game Store</h1>
+      <h1>Lojão dos Games</h1>
 
       <Menu />
     </header>

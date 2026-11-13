@@ -2,7 +2,7 @@ function Contato() {
   return (
     <section className="pagina">
 
-      <h1>Entre em Contato</h1>
+      <h1>Entre em Contato Conosco</h1>
 
       <form>
 

@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>© 2026 Game Store - Todos os direitos reservados.</p>
+      <p>© 2026 Lojão dos Games - Todos os direitos reservados.</p>
     </footer>
   );
 }

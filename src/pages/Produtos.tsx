@@ -13,45 +13,38 @@ function Produtos() {
   const produtos: Produto[] = [
     {
       id: 1,
-      titulo: "EA Sports FC 26",
-      imagem: "https://picsum.photos/400/250?random=1",
-      descricao: "Jogo de futebol com partidas emocionantes.",
-      preco: "R$ 299,90"
+      titulo: "NBA 2K27",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFFkaK_jRNmQ_w2EdgqwDx77Rkh6Dj_t9mQrAEJVOUlg&s=10",
+      descricao: "Viva a experiência mais autêntica da NBA e da WNBA na nova geração.",
+      preco: "R$ 329,90"
     },
     {
       id: 2,
       titulo: "Grand Theft Auto V",
-      imagem: "https://picsum.photos/400/250?random=2",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcN9WBGBjs-lVYkJImnjoFvA5Bs4Om1OyXxZyK9Pj7UI_KMOwTw-VSQsd&s=10",
       descricao: "Jogo de ação em um grande mundo aberto.",
-      preco: "R$ 149,90"
+      preco: "R$ 69,90"
     },
     {
       id: 3,
-      titulo: "Minecraft",
-      imagem: "https://picsum.photos/400/250?random=3",
-      descricao: "Construa e explore mundos incríveis.",
-      preco: "R$ 99,90"
-    },
-    {
-      id: 4,
-      titulo: "Fortnite",
-      imagem: "https://picsum.photos/400/250?random=4",
-      descricao: "Jogo online de ação e sobrevivência.",
-      preco: "R$ 89,90"
+      titulo: "Resident Evil 4 Remake",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pS7lJ8DqHENcJ3YV4PQa6-_ogl9PtIm0qJ2bJYYtwg&s=10",
+      descricao: "Resident Evil 4 Remake reimagina o clássico de terror com gráficos modernos.",
+      preco: "R$ 189,90"
     },
     {
       id: 5,
-      titulo: "The Last of Us",
-      imagem: "https://picsum.photos/400/250?random=5",
+      titulo: "The Last of Us II",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_LxGNsTRZG6LFMbxRe9j0NVkVzx6XCVtVbTpED_mYw&s=10",
       descricao: "Uma emocionante aventura de sobrevivência.",
       preco: "R$ 199,90"
     },
     {
       id: 6,
-      titulo: "God of War",
-      imagem: "https://picsum.photos/400/250?random=6",
+      titulo: "God of War Ragnarok",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8v1j5v9_mvzI6BBkHUV7SvpiJd6OyTV8_Fmq3PYwuuQ&s=10",
       descricao: "Uma grande aventura inspirada na mitologia.",
-      preco: "R$ 249,90"
+      preco: "R$ 219,90"
     }
   ];
 
