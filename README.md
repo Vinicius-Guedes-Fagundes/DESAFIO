@@ -1,5 +1,4 @@
-Alunos: Manassés Emanuel Barros De Lima - 01930883
-        Vinicius Guedes Fagundes - 01932966
+Alunos: Manassés Emanuel Barros De Lima - 01930883 | Vinicius Guedes Fagundes - 01932966
 
 A atividade consistiu no desenvolvimento de uma aplicação web chamada Lojão dos Games, utilizando as tecnologias React, TypeScript e Vite. O projeto foi desenvolvido em dupla, por Manassés e Vinicius, conforme a proposta do professor Ítalo.
 
